@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resort-project/static/css/main.526592c9.css",
+    "main.js": "/resort-project/static/js/main.2bb9389a.js",
+    "static/js/488.c3779d2a.chunk.js": "/resort-project/static/js/488.c3779d2a.chunk.js",
+    "index.html": "/resort-project/index.html",
+    "main.526592c9.css.map": "/resort-project/static/css/main.526592c9.css.map",
+    "main.2bb9389a.js.map": "/resort-project/static/js/main.2bb9389a.js.map",
+    "488.c3779d2a.chunk.js.map": "/resort-project/static/js/488.c3779d2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.526592c9.css",
+    "static/js/main.2bb9389a.js"
+  ]
+}
